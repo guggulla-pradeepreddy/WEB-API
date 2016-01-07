@@ -1,0 +1,14 @@
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\nagen\Desktop\WebAPI\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
